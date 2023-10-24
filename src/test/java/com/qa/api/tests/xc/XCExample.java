@@ -91,6 +91,8 @@ public class XCExample {
 			 System.out.println("url>>>>>>>>:"+url);
 			 System.out.println(apiResponse.status());
 			 System.out.println(apiResponse.text());
+			 
+			 playwright.close();
 		
 	}
 	
