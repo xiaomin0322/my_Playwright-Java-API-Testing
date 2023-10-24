@@ -16,6 +16,7 @@ public class MovieExample {
 			// 设置路由处理程序
 			//page.route("**/js/chunk-10192a00.243cb8b7.js",
 			//page.route("/js/chunk-10192a00.243cb8b7.js",
+			//https://spa2.scrape.center/js/chunk-10192a00.243cb8b7.js
 			page.route("**/js/chunk-10192a00.243cb8b7.js",
 			//page.route("**/*",	
 					route -> {
